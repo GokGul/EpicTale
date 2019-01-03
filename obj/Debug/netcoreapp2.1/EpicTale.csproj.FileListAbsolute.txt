@@ -1,0 +1,11 @@
+C:\Users\Gokhan.Guler\dotnet-projects\test\EpicTale\bin\Debug\netcoreapp2.1\EpicTale.deps.json
+C:\Users\Gokhan.Guler\dotnet-projects\test\EpicTale\bin\Debug\netcoreapp2.1\EpicTale.runtimeconfig.json
+C:\Users\Gokhan.Guler\dotnet-projects\test\EpicTale\bin\Debug\netcoreapp2.1\EpicTale.runtimeconfig.dev.json
+C:\Users\Gokhan.Guler\dotnet-projects\test\EpicTale\bin\Debug\netcoreapp2.1\EpicTale.dll
+C:\Users\Gokhan.Guler\dotnet-projects\test\EpicTale\bin\Debug\netcoreapp2.1\EpicTale.pdb
+C:\Users\Gokhan.Guler\dotnet-projects\test\EpicTale\obj\Debug\netcoreapp2.1\EpicTale.csprojAssemblyReference.cache
+C:\Users\Gokhan.Guler\dotnet-projects\test\EpicTale\obj\Debug\netcoreapp2.1\EpicTale.csproj.CoreCompileInputs.cache
+C:\Users\Gokhan.Guler\dotnet-projects\test\EpicTale\obj\Debug\netcoreapp2.1\EpicTale.AssemblyInfoInputs.cache
+C:\Users\Gokhan.Guler\dotnet-projects\test\EpicTale\obj\Debug\netcoreapp2.1\EpicTale.AssemblyInfo.cs
+C:\Users\Gokhan.Guler\dotnet-projects\test\EpicTale\obj\Debug\netcoreapp2.1\EpicTale.dll
+C:\Users\Gokhan.Guler\dotnet-projects\test\EpicTale\obj\Debug\netcoreapp2.1\EpicTale.pdb
